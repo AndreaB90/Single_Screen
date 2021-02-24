@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="business_name">Coffee Aroma</string>
+    <string name="corporate_address">Corporate Address</string>
+    <string name="address">15–16 George St, Marylebone,\nLondon W2 3WA</string>
+    <string name="hours_of_operation">Hours of Operation</string>
+    <string name="hours">06:00 AM to 19:00 PM Weekdays\n07:00 AM to 18:00 PM Weekends</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contacts">020 1234 5678\ncoffeearoma@gmail.com</string>
+    <string name="visit_us_online">Visit Us Online</string>
+    <string name="website">www.coffeearoma.com</string>
+    <string name="business_photo">Business Photo</string>
+</resources>
