@@ -1,10 +1,12 @@
 # Single Screen App
-Project from Udacity course in Android Programming
+Project from Udacity Nanodegree program - Course in Android Programming
 
-Project Overview
+Project Overview:
+
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
 
-Requirements
+Requirements:
+
 Your design must include:
 
 Business name
